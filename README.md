@@ -1,5 +1,5 @@
 # Windows DLL Injector.
-**Version:** `1.1`
+**Version:** `1.2`
 
 ## License:
-* [GNU General Public License v3](LICENSE.md)
+* [MIT License](LICENSE.md)
